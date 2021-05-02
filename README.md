@@ -7,7 +7,7 @@
 <h3>Useful links</h3>
 </head>
 <body>
-				<p><a href="https://discord.gg/nyrtdtf">Support server</a> | <a href="https://discord.com/oauth2/authorize?client_id=796756364331450388&permissions=8&scope=bot">Invite YourManager</a> | <a href="https://youtu.be/wm4_esk5kK0">Video tutorial</a></p>
+				<p><a href="https://discord.gg/nyrtdtf">Support server</a> | <a href="https://discord.com/oauth2/authorize?client_id=796756364331450388&permissions=21175985838&scope=bot">Invite YourManager</a> | <a href="https://youtu.be/wm4_esk5kK0">Video tutorial</a></p>
 </body>
 <head>
 				<h3>What is YourManager?</h3>
