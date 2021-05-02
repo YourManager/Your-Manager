@@ -12,7 +12,7 @@
 <head>
 				<h3>What is YourManager?</h3>
 <body>
-				<p2>YourManager is a esports focused discord bot. It was created with a reason to help esports related servers. YourManager can start registration, check tags, register teams, close the registration, give ID password role and create the slotlist. This is a boring and time consuming task and has to be done everyday and YourManager help you do this with just a single command. So if you are an owner or admin of an esports server, there is no question arising, why you would this bot? So <a href="https://discord.com/oauth2/authorize?client_id=796756364331450388&permissions=8&scope=bot">invite</a> it today, much better invite it now.</p2>
+				<p2>YourManager is a esports focused discord bot. It was created with a reason to help esports related servers. YourManager can start registration, check tags, register teams, close the registration, give ID password role and create the slotlist. This is a boring and time consuming task and has to be done everyday and YourManager help you do this with just a single command. So if you are an owner or admin of an esports server, there is no question arising, why you would this bot? So <a href="https://discord.com/oauth2/authorize?client_id=796756364331450388&permissions=21175985838&scope=bot">invite</a> it today, much better invite it now.</p2>
 				<h3>Features</h3>
 				<p><b>• Scrims/Custom Manager</b></p>
 <p>Setup a total of 5 customs with specific number of slots, no. of tags required, etc.</p><p>Reserve slots for invited teams.</p>
